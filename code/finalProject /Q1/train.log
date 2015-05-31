@@ -1,0 +1,10 @@
+start
+261
+283
+parsecommandline last line eps:0.100000
+end parse command line
+.*
+optimization finished, #iter = 13
+Objective value = -11959.790138
+nSV = 25406
+use time:612.286000
